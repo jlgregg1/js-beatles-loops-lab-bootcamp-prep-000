@@ -6,4 +6,3 @@ array.push(`musicians plays instruments`)
   }
   return array
 }
-
