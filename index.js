@@ -7,7 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
     // else {
     //   array.push(`musicians[${i}] plays instruments[${i}])`
     //   }
-array.push(`musicians[parseInt(${i})] plays instruments[parseInt(${i})]`)
+array.push(`musicians[${i}] plays instruments[${i}]`)
   }
   return array
 }
