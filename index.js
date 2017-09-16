@@ -5,6 +5,7 @@ function theBeatlesPlay(musicians, instruments) {
       array.push("John Lennon plays guitar")
     } else {
       array.push(`musicians[${i}] plays instruments[${i}]`
+      }
   }
   return array
 }
